@@ -4,6 +4,8 @@ Landing page for selling crypto for euros, built from the Figma section "Sell" (
 
 Plain HTML, CSS and a little JavaScript: no build step or dependencies.
 
+**Live preview:** https://jy-designs.github.io/venga-sell/ (GitHub Pages, `main` / root). The preview uses the system font, because Labil Grotesk isn't in the repo (see Fonts).
+
 ## Files
 - `index.html`: markup and copy (English, from the `sell::v1.3` Lokalise keys)
 - `styles.css`: all styles, the breakpoints and the motion states at the bottom
